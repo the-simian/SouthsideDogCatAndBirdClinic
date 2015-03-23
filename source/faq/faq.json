@@ -1,0 +1,22 @@
+[
+  {
+    "category": "General",
+    "q": "Where are you located?",
+    "a": "Check out our contact page."
+  },
+  {
+    "category": "General",
+    "q": "Do you do boarding or grooming?",
+    "a": "We do not offer boarding or grooming. We are strictly a medical and surgical clinic."
+  },
+  {
+    "category": "General",
+    "q": "What if I have an animal in need of care; however, I don't have the funds for an expensive stay in the hospital?",
+    "a": "Actually, most situations don't require an extensive stay in the hospital. In fact, most maladies in animals health can be treated by you if you are acting under the direction and guidance of a qualified veterinarian. Generally speaking, the sooner a problem is addressed, the less money it costs the patient."
+  },
+  {
+    "category": "Animal Health",
+    "q": "At what age do I start vaccinations for my pet?",
+    "a": "Puppies and kittens should have three sets of vaccinations during their first year of life. \n The first one is at eight weeks, the second booster at 12 weeks and their third booster and rabies vaccination at 16 weeks of age. It is important to make sure you animal is vaccinated. Of course, this improves their quality of life as they mature, but additionally many facilities such as a kennel often require certain vaccinations 2 weeks before boarding."
+  }
+]
