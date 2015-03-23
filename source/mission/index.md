@@ -1,6 +1,5 @@
-title: "mission"
-date: 2015-03-22 16:13:31
----
+#Our Mission
+
 At Southside Dog Cat and Bird Clinic we are a small animal practice dedicated to serving the Oklahoma City community by providing affordable animal care. We strive to help control and maintain a healty animal population by offering birth control solutions, vaccination services, and general animal health care.
 
 

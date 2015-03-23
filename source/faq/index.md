@@ -4,14 +4,13 @@
 Over the years we have noticed a number of questions asked of us that come up often. We want to better serve your time, and give you efficient answers to questions that affect your animal friends' health.
 
 
-We compiled the most common ones and have listed them below. Just click th e "+" to get started on finding your answer.
-
+We compiled the most common ones and have listed them below. Of course, the best thing you can always do is [call us](/contact)
 
 #FAQ
 ## General Questions
 
 ### Where are you?
-Check out out contact page here.
+Check out our [contact page](/contact) here.
 
 ### Do you do boarding or grooming?
 We do not offer boarding or grooming. We are strictly a medical and surgical clinic.
@@ -68,7 +67,7 @@ Cats that have not been spayed or neutered are generally more aggressive and ter
 ### Do you do "walk-in" surgery?
 No. We only do surgery by appointment on Monday through Friday. You can contact us via our contact page.
 
----
+
 Disclaimer: Any information in this faq is not a substitute for advice from a veteranerian. It simply acts as a useful information resource to better inform customers. Any pricing quotes in this FAQ is subject to change, and is not a substitute for pricing quoted over the phone or in person. We encourage you to call us if you have any questions, or if your question wasn't answered in this FAQ.
 
 

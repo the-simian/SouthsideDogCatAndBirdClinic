@@ -12,8 +12,8 @@ timezone:
 
 #menu
 menu:
-  Info: /
-  Resources: /resources
+  About: /mission
+  Frequent Questions: /faq
   VetSource™: http://southsidedogcatbirdclinic.vetsourceweb.com/index.pml
   Contact: /contact
 
@@ -69,7 +69,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape
+theme: clinical
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html

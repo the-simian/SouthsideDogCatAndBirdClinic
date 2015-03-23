@@ -1,6 +1,4 @@
-title: "contact"
-date: 2015-03-22 16:13:59
----
+#Contact Information
 
 ## Phone
 405.636.1484
