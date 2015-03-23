@@ -1,3 +1,5 @@
+{% img float-right /images/animals/47.png 250 "Skwak"  %}
+
 #Contact Information
 
 ## Phone

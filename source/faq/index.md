@@ -1,3 +1,5 @@
+{% img float-right /images/animals/22.png 250 "Yiff"  %}
+
 #Frequently Asked Questions
 
 
@@ -19,7 +21,7 @@ We do not offer boarding or grooming. We are strictly a medical and surgical cli
 Actually, most situations don't require an extensive stay in the hospital. In fact, most maladies in animals health can be treated by you if you are acting under the direction and guidance of a qualified veterinarian. Generally speaking, the sooner a problem is addressed, the less money it costs the patient.
 
 ## Animal Health Questions
-
+{% img float-left /images/animals/23.png 250 "Meow"  %}
 ###At what age do I start vaccinations for my pet?
 Puppies and kittens should have three sets of vaccinations during their first year of life.
 
@@ -53,7 +55,7 @@ Remeber that the "heartworm preventatives" we recommend (such as Interceptor) al
 Combination products that also protect against external parasites such as fleas and ticks are now available (such as the Advantage Multi).
 
 ## Service and Pricing Questions
-
+{% img float-right /images/animals/46.png 250 "Poof"  %}
 ### Do I need an appointement for the doctores to see my pet?
 We see patients on a walk in basis. the only thing we require an appointement for is surgical procedures.
 
